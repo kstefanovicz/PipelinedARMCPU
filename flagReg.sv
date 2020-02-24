@@ -1,0 +1,6 @@
+module flagReg(
+
+  input logic
+
+
+);
